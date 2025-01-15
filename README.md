@@ -10,6 +10,3 @@ Also make sure to download the HID libs from adafruit from https://github.com/ad
 After installing the files on the Pico, plug it in and connect to the access point specified in the secrets.py file, modify the data for your needs.
 
 Set up the keyboard layout in hid.py by editing the lines as written in the comments
-
-# Credits
-Thanks to [dbisu](https://github.com/dbisu/pico-ducky) for the hid.py [script](https://github.com/dbisu/pico-ducky)
