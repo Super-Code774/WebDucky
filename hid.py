@@ -1,7 +1,8 @@
-# License : GPLv2.0
-# copyright (c) 2023  Dave Bailey
-# Author: Dave Bailey (dbisu, @daveisu)
 
+# copyright (c) 2023 
+# copyright (c) 2023 
+# copyright (c) 2023 
+# copyright (c) 2023 
 
 import time
 import digitalio
